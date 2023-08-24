@@ -11,9 +11,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...anything
 - 🤔 I’m looking for help with ...employment
 - 💬 Ask me about ...anything
-- 📫 How to reach me: ...
+- 📫 How to reach me: ...here or there, Sam I am 
 - 😄 Pronouns: ...he/her
 - ⚡ Fun fact: ...My definition of fun might be a little different than yours
 
 
-![image](https://github.com/hatonthecat/hatonthecat/assets/76194453/410f1069-4708-417c-a265-98d79cb3c9d6)
+![image](https://github.com/hatonthecat/hatonthecat/assets/76194453/50d8bebb-3b6a-40c0-8d12-60bd09a2f3da)
+
+![joker-laughing-with-tearful-eyes-kuu1arhhitp6psmn](https://github.com/hatonthecat/hatonthecat/assets/76194453/1431f8fe-1bf8-4596-8d60-5c4f619d313c)
+
+![joker-hand-with-smiling-tattoo-3awz0sh0r02nyv81](https://github.com/hatonthecat/hatonthecat/assets/76194453/c910c3fb-0a04-4ddc-988d-a05d8b67563a)
