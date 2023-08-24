@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...he/her
 - ⚡ Fun fact: ...My definition of fun might be a little different than yours
 
+![image](https://github.com/hatonthecat/hatonthecat/assets/76194453/a7fdd751-8f10-41bf-80e3-f73f6cbfdce3)
 
 ![image](https://github.com/hatonthecat/hatonthecat/assets/76194453/50d8bebb-3b6a-40c0-8d12-60bd09a2f3da)
 
