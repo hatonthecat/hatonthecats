@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...employment
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ...here or there, Sam I am 
-- 😄 Pronouns: ...he/her
+- 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...My definition of fun might be a little different than yours
 
 ![image](https://github.com/hatonthecat/hatonthecat/assets/76194453/a7fdd751-8f10-41bf-80e3-f73f6cbfdce3)
