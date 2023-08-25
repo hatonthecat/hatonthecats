@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ...create an [Issue](https://github.com/hatonthecat/hatonthecat/issues/new) ^ here or there, Sam I am (it's like a Wall! ;)
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...My definition of fun might be a little different than yours
+- ⚡ Fun fact: ...My definition of fun might be a little [different](https://www.youtube.com/watch?v=Qb1_UjIPCTE) than yours
+
+- 
+<iframe width="1094" height="625" src="https://www.youtube.com/embed/Qb1_UjIPCTE" title="Austin Powers Best Of Frau Farbissina HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ![image](https://github.com/hatonthecat/hatonthecat/assets/76194453/a7fdd751-8f10-41bf-80e3-f73f6cbfdce3)
 
