@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ...OSINT and job-search
-- 🌱 I’m currently learning ...kernel lingo
+- 🌱 I’m currently learning ...systems research, kernel lingo, Limbo programming language
 - 👯 I’m looking to collaborate on ...anything
 - 🤔 I’m looking for help with ...employment
 - 💬 Ask me about ...anything
