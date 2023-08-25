@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...anything
 - 🤔 I’m looking for help with ...employment
 - 💬 Ask me about ...anything
-- 📫 How to reach me: ...create an [Issue](https://github.com/hatonthecat/hatonthecat/issues/new) ^ here or there, Sam I am 
+- 📫 How to reach me: ...create an [Issue](https://github.com/hatonthecat/hatonthecat/issues/new) ^ here or there, Sam I am (it's like a Wall! ;)
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...My definition of fun might be a little different than yours
 
