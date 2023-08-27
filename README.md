@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: giovanni.los@proton.me, or create an [Issue](https://github.com/hatonthecat/hatonthecat/issues/new) ^ here or there, Sam I am (it's like a Wall! ;)
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...My definition of fun might be a little [different](https://www.youtube.com/watch?v=Qb1_UjIPCTE) than yours
-- 
+- did you have the same dream? https://www.youtube.com/watch?v=_E62a_RCtX4
 
 ![image](https://github.com/hatonthecat/hatonthecat/assets/76194453/a7fdd751-8f10-41bf-80e3-f73f6cbfdce3)
 
