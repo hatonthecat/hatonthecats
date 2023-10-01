@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ...Steve Jobs biopic around the 1984 Macintosh, tech-support job-search. I am a cataloger of technologies and a technical polyglot of sorts.
+- 🔭 I’m currently working on ... a Steve Jobs biopic around the 1984 Macintosh, tech-support job-search. I am a cataloger of technologies and a technical polyglot of sorts.
 - 🌱 I’m currently learning ...systems research, kernel lingo
 - 👯 I’m looking to collaborate on ...anything
 - 🤔 I’m looking for help with ...employment
