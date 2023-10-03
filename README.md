@@ -22,3 +22,5 @@ I collect and catalog technology research- OSINT like. For an example of my main
 
 
 ![image](https://github.com/hatonthecat/hatonthecat/assets/76194453/3ae007e8-0558-4041-9bf8-a90edd72ba7a)
+
+Fake Followers: with new or dormant accounts that popped up in the past 2 months, don't bother- if your account descriptions copy others, I may report you.
