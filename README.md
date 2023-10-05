@@ -3,7 +3,7 @@
 <!--
 **hatonthecat/hatonthecat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+You are entering an HTML-only zone...You are entering an HTML only zone. HTML only passed this point.
 -->
 
 - 🔭 I’m currently working on ... a Steve Jobs biopic around the 1984 Macintosh, tech-support job-search. I am a cataloger of technologies and a technical polyglot of sorts.
