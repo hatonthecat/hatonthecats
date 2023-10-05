@@ -3,7 +3,7 @@
 <!--
 **hatonthecat/hatonthecat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-You are entering an HTML-only zone...You are entering an HTML only zone. HTML only passed this point.
+You are entering an HTML-only zone...You are entering an HTML....only zone. HTML only passed this point....
 -->
 
 You are entering an HTML-only zone...You are entering an HTML only zone. HTML only passed this point.
