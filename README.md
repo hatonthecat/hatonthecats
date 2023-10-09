@@ -182,7 +182,7 @@ Warning! You are entering an HTML-only zone...You are entering an HTML....only z
 from https://twitter.com/iammemeloper/status/1708394568360833408/photo/1
 
 
-- 🔭 I’m currently working on ... a Steve Jobs biopic around the 1984 Macintosh, tech-support job-search. I am a cataloger of technologies and a technical polyglot of sorts.
+- 🔭 I’m currently working on ... a Steve Jobs biopic around the 1984 Macintosh, tech-support job-search. I am a cataloger of technologies and a technical polyglot of sorts. I started yet another blog. This one is the plainest yet: https://electrics.mataroa.blog I hope to write some far out sci-fi, in the most serialized, byte sized fashion.
 - 🌱 I’m currently learning ...systems research, kernel lingo
 - 👯 I’m looking to collaborate on ...anything
 - 🤔 I’m looking for help with ...employment
