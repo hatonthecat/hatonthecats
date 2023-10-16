@@ -9,6 +9,7 @@ https://en.wikipedia.org/wiki/Charles_Sanders_Peirce
 Charles Sanders Peirce (/pɜːrs/ PURSS; September 10, 1839 – April 19, 1914) was an American scientist, mathematician, logician, and philosopher who is sometimes known as "the father of pragmatism". According to philosopher Paul Weiss, Peirce was "the most original and versatile of America's philosophers and America's greatest logician."
 
 Scientific method
+
 Insofar as clarification by pragmatic reflection suits explanatory hypotheses and fosters predictions and testing, pragmatism points beyond the usual duo of foundational alternatives: deduction from self-evident truths, or rationalism; and induction from experiential phenomena, or empiricism.
 
 Based on his critique of three modes of argument and different from either foundationalism or coherentism, Peirce's approach seeks to justify claims by a three-phase dynamic of inquiry:
