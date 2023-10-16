@@ -6,7 +6,7 @@
 You are entering an HTML-only zone...You are entering an HTML....only zone. HTML only, passed this point....
 -->
 
-Warning! You are entering an HTML-only zone...You are entering an HTML....only zone. HTML only passed this point.... Programmers seeking immaculate code will be sorely disappointed.
+Warning! You are entering an HTML-only zone...You are entering an HTML....only zone. HTML only passed this point.... Programmers seeking machine-compatible code will be sorely disappointed.
 
 {
 
