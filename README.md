@@ -1,6 +1,6 @@
 ### Hi there!! 👋
 
-All software follows some form of philosophy, therefore, why not start this page on a topic about philosophy? 
+All software follows some form of philosophy. Therefore, why not start this page on a topic about philosophy? 
 
 ![image](https://github.com/hatonthecat/hatonthecat/assets/76194453/bbb2ff4b-dcbe-4609-8089-51d96f245a73)
 
