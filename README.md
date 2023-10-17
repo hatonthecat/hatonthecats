@@ -1,4 +1,4 @@
-### Hi there!! 👋
+### Hi there!
 
 All software follows some form of philosophy. Therefore, why not start this page on a topic about philosophy? 
 
