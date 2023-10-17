@@ -46,7 +46,7 @@ Bio
 - 🔭 I’m currently working on ... a Steve Jobs biopic around the 1984 Macintosh, tech-support job-search. I am a cataloger of technologies and a technical polyglot of sorts. I started yet another blog. This one is the plainest yet: https://electrics.mataroa.blog I hope to write some far out sci-fi, in the most serialized, bite-sized fashion.
 - 🌱 I’m currently learning ...systems research, kernel lingo
 - 👯 I’m looking to collaborate on ...you tell me
-- 🤔 I’m looking for help with ...employment
+- 🤔 I’m looking for help with ...employment. need someone to proofread your dense, 800 page technical datasheet? I can probably spot a few typos that AI and spellcheck can't (yet) find.
 - 💬 Ask me about ...anything
 - 📫 How to reach me: giovanni.los@proton.me, or create an [Issue](https://github.com/hatonthecat/hatonthecat/issues/new) ^ here or there, Sam I am (it's like a Wall! ;)
 - 😄 Pronouns: ...he/him
