@@ -2,8 +2,6 @@
 
 All software follows some form of philosophy. Therefore, why not start this page on a topic about philosophy? 
 
-![image](https://github.com/hatonthecat/hatonthecat/assets/76194453/bbb2ff4b-dcbe-4609-8089-51d96f245a73)
-
 https://en.wikipedia.org/wiki/Charles_Sanders_Peirce
 
 Charles Sanders Peirce (/pɜːrs/ PURSS; September 10, 1839 – April 19, 1914) was an American scientist, mathematician, logician, and philosopher who is sometimes known as "the father of pragmatism". According to philosopher Paul Weiss, Peirce was "the most original and versatile of America's philosophers and America's greatest logician."
