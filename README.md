@@ -1,6 +1,6 @@
 ### Hi there!
 
-All software follows some form of philosophy. Therefore, why not start this page on a topic about philosophy? 
+All software follows some form of philosophy. Therefore, why not start this page on a topic about philosophy (e.g my modus operandi)? 
 
 https://en.wikipedia.org/wiki/Charles_Sanders_Peirce
 
