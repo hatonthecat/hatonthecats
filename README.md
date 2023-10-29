@@ -52,7 +52,7 @@ Bio
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...My definition of fun might be a little [different](https://www.youtube.com/watch?v=Qb1_UjIPCTE) than yours
 
-   ![image](https://github.com/hatonthecat/hatonthecat/assets/76194453/fddfb193-f7a6-4ce7-8c2d-c2ec43048133) Created using RunwayML: [app.runwayml.com](https://runwayml.com/) "Cat walking like Eduard Khil
+   ![image](https://github.com/hatonthecat/hatonthecat/assets/76194453/fddfb193-f7a6-4ce7-8c2d-c2ec43048133) Created using RunwayML: [app.runwayml.com](https://runwayml.com/) "Cat walking like Eduard Khil"
 
   
 - Additional info:
