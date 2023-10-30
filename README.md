@@ -57,7 +57,9 @@ Bio
 
 https://github.com/hatonthecat/hatonthecat/assets/76194453/43448898-5ddd-437e-a8b9-c3f833c286ab
 
-Why this is "fun." I have been interested in memes ever since it was analogized to genes (Dawkins, or someone else who first coined it). In the past 5-6 years, a phrase meta-meme emerged: https://en.wikipedia.org/wiki/Metameme https://web.archive.org/web/20180827172807/http://reoxy.org/memelex.htm
+Why this is "fun." I have been interested in memes ever since it was analogized to genes (Dawkins, or someone else who first coined it). In the past 5-6 years, a phrase "meta-meme" emerged: https://en.wikipedia.org/wiki/Metameme https://web.archive.org/web/20180827172807/http://reoxy.org/memelex.htm
+
+With this knowledge, I started to think about trends that the internet is used for, in worldwide trends, things that are shared across borders without much restriction. Many years ago, the phrase "kittens on a treadmill" was a meme. Today, kittens are still a meme, a viral phenomena but also a quotidan aspect of life, but not historically forming a global network of sharing cat media.
 
 The idea that memes are not just memes, but memetic viruses appeared to grow in consciousness/awareness. In that regard, cats as innocuous, apolitical digital objects are a useful concept to reflect and project as a concept to evolve. This led me to think about using AI in a meta-meme way, particularly because the new technology that led to RunwayML- text to image, and image to image video, is based on the the rise of AI in 2022: "https://en.wikipedia.org/wiki/ChatGPT" "By January 2023, it had become what was then the fastest-growing consumer software application in history, gaining over 100 million users and contributing to OpenAI's valuation growing to $29 billion.[5][6] "
 
@@ -67,7 +69,6 @@ So, why combine Mr. Trololol and cats? Well, Mr. Trolol is considered the "Russi
 
 While kittens/cats aren't considered the de jure mascot of the internet, it would be interesting to memetically fuse or recombine certain apex or arch memes, to pose questions about society's interest in memes for the sake of popularity, or for seeking some genuine affinity for the content - pets and music.  
 
-With this knowledge, I started to think about trends that the internet is used for, in worldwide trends, things that are shared across borders without much restriction. Many years ago, the phrase "kittens on a treadmill" was a meme. Today, kittens are still a meme, a viral 
 
 - Additional info:
 I collect and catalog technology research- OSINT like. For an example of my main interest, see: https://github.com/EI2030/Low-power-E-Paper-OS/blob/master/Hyperlinks%20and%20Scratchpad.md It is very mumbo jumbo, like a telephone directory, or Katmamari Damacy: https://youtu.be/JHsFcSNFUMc?t=50 Depending on how disorganized it appears to you, It's may or may not be more efficient using this method to collect and untangle later. My memory is like a snowball effect, it remembers a bit of everything it comes across and I infer new perspectives rarely do I entirely replace or forget old ideas with newer technologies, thus my minds' repositor is a prime candidate for a new open source platform. I do not know what technologies will be useful, but the concepts themselves can be mixed and matched like pieces of a puzzle. https://en.wikipedia.org/wiki/The_Library_of_Babel 
