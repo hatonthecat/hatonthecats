@@ -7,6 +7,10 @@ You have reached a telephone switchboard
 
 ![Stockholm_telephone_tower (3)](https://github.com/hatonthecat/hatonthecat/assets/76194453/a89684c9-f40b-4860-86b8-96525d0f467a)
 
+Authorized Personnel Only
+---
+![image](https://github.com/hatonthecat/hatonthecat/assets/76194453/fff6ced7-109a-434c-9189-d5a860e61ea4)
+
 ![C0xBi](https://github.com/hatonthecat/hatonthecat/assets/76194453/4c141d57-d702-491c-8426-930d9ca2ea22)
 
 
