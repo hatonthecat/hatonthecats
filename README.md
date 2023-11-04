@@ -16,7 +16,7 @@ Authorized Personnel Only
 Personnel analogique uniquement
 ---
 ![SEA_OME_P2_-_ACONIT](https://github.com/hatonthecat/hatonthecat/assets/76194453/2dbd5f2e-4291-46de-8a42-d430748be32d)
-Where do I insert my Wes Anderson-approved garden key?
+[OME P2](https://en.wikipedia.org/wiki/Analog_computer#/media/File:SEA_OME_P2_-_ACONIT.jpg), 1952.  Where do I insert my Wes Anderson-approved garden key?
 
 ![C0xBi](https://github.com/hatonthecat/hatonthecat/assets/76194453/4c141d57-d702-491c-8426-930d9ca2ea22)
 
