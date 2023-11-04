@@ -1,3 +1,9 @@
+You have reached a telephone switchboard
+![image](https://github.com/hatonthecat/hatonthecat/assets/76194453/04b9f372-48e3-4492-ac09-59634a26cb87)
+
+
+[tower](https://history.stackexchange.com/questions/58872/did-they-really-have-individual-telephone-wires-going-from-a-central-tower-to-ea). How may I redirect your call?
+
 ### Hi there!
 
 All software follows some form of philosophy. Therefore, why not start this page on a topic about philosophy (e.g my modus operandi)? 
