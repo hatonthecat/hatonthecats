@@ -1,8 +1,16 @@
 You have reached a telephone switchboard
+----
+
 ![image](https://github.com/hatonthecat/hatonthecat/assets/76194453/04b9f372-48e3-4492-ac09-59634a26cb87)
 
+[tower](https://history.stackexchange.com/questions/58872/did-they-really-have-individual-telephone-wires-going-from-a-central-tower-to-ea). 
 
-[tower](https://history.stackexchange.com/questions/58872/did-they-really-have-individual-telephone-wires-going-from-a-central-tower-to-ea). How may I redirect your call?
+![Stockholm_telephone_tower (3)](https://github.com/hatonthecat/hatonthecat/assets/76194453/a89684c9-f40b-4860-86b8-96525d0f467a)
+
+![C0xBi](https://github.com/hatonthecat/hatonthecat/assets/76194453/4c141d57-d702-491c-8426-930d9ca2ea22)
+
+
+How may I redirect your call?
 
 ### Hi there!
 
