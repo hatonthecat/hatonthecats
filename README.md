@@ -13,6 +13,11 @@ Authorized Personnel Only
 
 ![ScreenShot2016-11-28at9 50 47AM](https://github.com/hatonthecat/hatonthecat/assets/76194453/f8e312bb-476e-4f30-979c-58b828a19dea)
 
+Personnel analogique uniquement
+---
+![SEA_OME_P2_-_ACONIT](https://github.com/hatonthecat/hatonthecat/assets/76194453/2dbd5f2e-4291-46de-8a42-d430748be32d)
+Where do I insert my Wes Anderson-approved garden key?
+
 ![C0xBi](https://github.com/hatonthecat/hatonthecat/assets/76194453/4c141d57-d702-491c-8426-930d9ca2ea22)
 
 
