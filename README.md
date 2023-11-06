@@ -23,6 +23,10 @@ Personnel analogique uniquement
 
 How may I redirect your call?
 
+![image](https://github.com/hatonthecat/hatonthecat/assets/76194453/a73a9e75-14aa-48c2-9dfb-db5a6c031c14)
+
+
+
 ### Hi there!
 
 All software follows some form of philosophy. Therefore, why not start this page on a topic about philosophy (e.g my modus operandi)? 
@@ -61,6 +65,9 @@ ii. Demonstration: Deductive Argumentation, Euclidean in procedure. Explicit ded
 i. Classification. Not clearly premised, but an inductive classing of objects of experience under general ideas.
 ii. Probation: direct Inductive Argumentation. Crude or Gradual in procedure. Crude Induction, founded on experience in one mass (CP 2.759), presumes that future experience on a question will not differ utterly from all past experience (CP 2.756). Gradual Induction makes a new estimate of the proportion of truth in the hypothesis after each test, and is Qualitative or Quantitative. Qualitative Gradual Induction depends on estimating the relative evident weights of the various qualities of the subject class under investigation (CP 2.759; see also Collected Papers of Charles Sanders Peirce, 7.114–120). Quantitative Gradual Induction depends on how often, in a fair sample of instances of S, S is found actually accompanied by P that was predicted for S (CP 2.758). It depends on measurements, or statistics, or counting.
 iii. Sentential Induction. "...which, by Inductive reasonings, appraises the different Probations singly, then their combinations, then makes self-appraisal of these very appraisals themselves, and passes final judgment on the whole result".
+
+[![image](https://github.com/hatonthecat/hatonthecat/assets/76194453/12ee302e-2286-43a1-83ba-32b3925a4267)
+](https://rickadams.org/adventure/advent/)
 
 -----
 Bio
