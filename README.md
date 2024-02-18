@@ -6,3 +6,5 @@
 Bio
 -----
 - 📫 How to reach me: giovanni.los@proton.me, or create an [Issue](https://github.com/hatonthecat/hatonthecat/issues/new) 
+
+![image](https://github.com/hatonthecat/hatonthecat/assets/76194453/2b898aae-fa8f-44b0-a418-8bacb53c6707)
